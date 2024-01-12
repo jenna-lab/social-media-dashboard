@@ -1,9 +1,3 @@
-// const slider = document.querySelector(".toggle-button");
-
-// slider.addEventListener("click", ()=>{
-//     document.body.classList.toggle("dark-theme");
-// });
-
 document.addEventListener("DOMContentLoaded", () => {
   let toggleSwitch = document.querySelector(".switch");
   let topBg = document.querySelector('.top-bg');
