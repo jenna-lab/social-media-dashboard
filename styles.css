@@ -287,7 +287,7 @@ input:checked + .slider:before {
   gap: 1rem;
 }
 }
-/* ----------------------------Multiparts------------------------------ */
+
 .card {
   background-color: hsl(228, 28%, 20%);
   max-width: 100%;
@@ -297,7 +297,6 @@ input:checked + .slider:before {
 
 .card.dark:hover {
   cursor: pointer;
-  -webkit-filter: brightness(140%);
   transition: linear .15s;
 }
 
